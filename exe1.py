@@ -2,5 +2,5 @@
 
 nome = input('Informe o nome: ')
 
-print('Bom dia', nome, '!')
+print('Bom dia, ', nome + '!')
 
