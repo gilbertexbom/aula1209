@@ -6,4 +6,5 @@ num2 = int(input('Informe num2:'))
 
 total = num1 + num2
 
-print(num1, '+', num2, ' = ', total)
+# print(num1, '+', num2, ' = ', total)
+print('{} + {} = {}'.format(num1, num2, total))
