@@ -8,4 +8,3 @@ ano = input('Informe o ano:')
 
 # print(dia, '-', mes, '-', ano)
 print(dia + '/' + mes + '/' + ano)
-
