@@ -2,6 +2,9 @@
 
 num = int(input('Informe um númemo inteiro: '))
 
+# for i in range(1, 11):
+#     print('{} x {} = {}'.format(i, num, (num * i)))
+
 print('1 x {} = {}'.format(num, (num * 1)))
 print('2 x {} = {}'.format(num, (num * 2)))
 print('3 x {} = {}'.format(num, (num * 3)))
